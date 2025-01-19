@@ -1,0 +1,16 @@
+---
+title: "About"
+image: about_me.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/shannon-pflueger-763815137/
+    - icon: github
+      text: Github
+      href: https://github.com/Shan-non
+
+---
+
+Hello! I'm Shannon, a Master of Data Science (MDS) student attending the University of British Columbia. I'm passionate about healthcare, science communication and mental health! In my free time I enjoy hiking with my dog Ringo, watching Buffy the Vampire Slayer, and baking. 
